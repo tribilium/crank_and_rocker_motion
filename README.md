@@ -1,5 +1,5 @@
 # crank_and_rocker_motion
-Animation of crank and rocker motion using Python and Matplotlib\
+Animation of crank and rocker motion using Python and Matplotlib
 
 This Python script runs an animation which shows the crank and rocker mechanism, one of the variations of the 4-link mechanism. 
 
