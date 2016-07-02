@@ -41,7 +41,7 @@ RR_Angle = np.zeros(len(R_Angle)) # array of rocker arm angles
 X3=np.zeros(len(R_Angle)) # array of rocker x-positions: Point 3
 Y3=np.zeros(len(R_Angle)) # array of rocker y-positions: Point 3
 
-#find the crank and connecting rod positions for each angle
+#find the crank and rocker arm positions for each angle
 for index,R_Angle in enumerate(R_Angle, start=0):
 
         theta1 = R_Angle
