@@ -67,7 +67,7 @@ for index,R_Angle in enumerate(R_Angle, start=0):
 fig = plt.figure()
 ax = fig.add_subplot(111, aspect='equal', autoscale_on=False, xlim=(-2,6), ylim=(-2,3))
 ax.grid()
-line, = ax.plot([], [], 'o-', lw=5, color='g')
+line, = ax.plot([], [], 'o-', lw=5, color='b')
 
 
 # initialization function
